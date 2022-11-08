@@ -35,7 +35,7 @@ import random
 from discord import Client
 
 TOKEN = '-----PUT------YOUR-------TOKEN--------HERE--------'
-#in this line you need to put the Token created previously for with your bot
+#in this line you need to put the Token created previously for your bot
 client = discord.Client(intents=discord.Intents.default())
 
 
